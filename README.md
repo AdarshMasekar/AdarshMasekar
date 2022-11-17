@@ -3,6 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=adarshmasekar&icon=5&color=8)](https://visitcount.itsvg.in)
 
+<a href=#><img src="snake.svg"></a>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adarshmasekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-masekar-826a2423a/) 
 
