@@ -1,9 +1,12 @@
 # 💫 About Me:
 🌱 I’m currently learning React js<br><br>👨‍💻 All of my projects are available at https://adarshmasekar.vercel.app/<br><br>💬 Ask me about HTML CSS JAVASCRIPT C++<br><br>📄 Know about my experiences resume_link
 
-[![](https://visitcount.itsvg.in/api?id=adarshmasekar&icon=5&color=8)](https://visitcount.itsvg.in)
 
 <a href=#><img src="snake.svg"></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adarshmasekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-masekar-826a2423a/) 
 
