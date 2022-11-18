@@ -1,6 +1,19 @@
-# 💫 About Me:
-🌱 I’m currently learning React js<br><br>👨‍💻 All of my projects are available at https://adarshmasekar.vercel.app/<br><br>💬 Ask me about HTML CSS JAVASCRIPT C++<br><br>📄 Know about my experiences <h1> <a href="https://drive.google.com/file/d/11u3DhkeilGC7TJ5maFc7FS5nEliaJXnQ/view?usp=share_link"> Resume Link</a> </h1>
+<table>
+  <tr>
+    <td>
+      
 
+<h1>💫 About Me:</h1>
+🌱 I’m currently learning React js<br><br>👨‍💻 All of my projects are available at https://adarshmasekar.vercel.app/<br><br>💬 Ask me about HTML CSS JAVASCRIPT C++<br><br>📄 Know about my experiences <h1> <a href="https://drive.google.com/file/d/11u3DhkeilGC7TJ5maFc7FS5nEliaJXnQ/view?usp=share_link"> Resume Link</a> </h1>
+    </td>
+    <td>
+
+      <h1>😂 Random Dev Meme :</h1>
+<img src="https://random-memer.herokuapp.com/" width="200px"/>
+    </td>
+   
+  </tr>
+ </table>    
 
 
 <hr/>
@@ -56,9 +69,5 @@
 
 
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="200px"/>
-
----
 
 
