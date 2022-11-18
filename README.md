@@ -9,9 +9,7 @@
     <td>
          <div id="badges" align="center">
          <h1>💻 Tech Stack:</h1>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
   
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="LinkedIn Badge"/>
@@ -51,6 +49,9 @@
       <h1>🌐 Socials:</h1>
        <a href="https://facebook.com/adarshmasekar" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> 
         <a href="https://www.linkedin.com/in/adarsh-masekar-826a2423a" /> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?  logo=linkedin&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/adarshmasekar/count.svg" />
