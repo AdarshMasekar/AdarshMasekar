@@ -12,36 +12,8 @@
  <table align="right" width="350px" display="flex">
   <tr>
     <td align="center">
-      
-
-<h1>😂 Random Dev Meme:</h1>
- <img src="https://random-memer.herokuapp.com/" width="300px"/>
-    </td>
-  </tr>
- </table> 
-
-
-
-     
-<hr/>
-<table>
-  <tr>
-    <td align="center" colspan="4">
-      <h1>🌐 Socials:</h1>
-       <a href="https://facebook.com/adarshmasekar" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> 
-        <a href="https://www.linkedin.com/in/adarsh-masekar-826a2423a" /> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?  logo=linkedin&logoColor=white"/> 
-      <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/adarshmasekar/count.svg" />
-</p>
-    </td>
-    <td>
-      <a href=#><img src="snake.svg"></a>
-    </td>
-  </tr>
-  </table>
- <h1>💻 Tech Stack:</h1>
-<div id="badges" align="center">
+      <div id="badges" align="center">
+         <h1>💻 Tech Stack:</h1>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -72,9 +44,38 @@
 </div>
 
 
+    </td>
+  </tr>
+ </table> 
+
+
+
+     
+<hr/>
+<table>
+  <tr>
+    <td align="center" colspan="4">
+      <h1>🌐 Socials:</h1>
+       <a href="https://facebook.com/adarshmasekar" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> 
+        <a href="https://www.linkedin.com/in/adarsh-masekar-826a2423a" /> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?  logo=linkedin&logoColor=white"/> 
+      <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/adarshmasekar/count.svg" />
+</p>
+    </td>
+    <td>
+      <a href=#><img src="snake.svg"></a>
+    </td>
+  </tr>
+  </table>
 
 
 
 
 
+
+
+
+<h1>😂 Random Dev Meme:</h1>
+ <img src="https://random-memer.herokuapp.com/" width="300px"/>
 
