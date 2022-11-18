@@ -8,8 +8,7 @@
     </td>
     <td>
 
-<!--       <h1>  </h1> -->
-      <p>😂 Random Dev Meme</p>
+
       <img src="https://random-memer.herokuapp.com/" width="300px"/>
     </td>
    
