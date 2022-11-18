@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/adarshmasekar/count.svg" />
 </p>
 <hr/>
-# 🌐 Socials:
+#🌐 Socials:
 <a href="https://facebook.com/adarshmasekar" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/> 
 <a href="https://www.linkedin.com/in/adarsh-masekar-826a2423a" /> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> 
 
