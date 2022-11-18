@@ -9,7 +9,9 @@
     <td>
 
 
-      <img src="https://random-memer.herokuapp.com/" width="300px"/>
+      <img src="https://random-memer.herokuapp.com/" width="150px"/>
+      
+      
     </td>
    
   </tr>
