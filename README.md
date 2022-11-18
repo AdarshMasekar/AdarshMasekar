@@ -6,13 +6,8 @@
 <h1>💫 About Me:</h1>
 🌱 I’m currently learning React js<br><br>👨‍💻 All of my projects are available at https://adarshmasekar.vercel.app/<br><br>💬 Ask me about HTML CSS JAVASCRIPT C++<br><br>📄 Know about my experiences <h1> <a href="https://drive.google.com/file/d/11u3DhkeilGC7TJ5maFc7FS5nEliaJXnQ/view?usp=share_link"> Resume Link</a> </h1>
     </td>
-  </tr>
- </table> 
- 
- <table align="right" display="flex">
-  <tr>
-    <td align="center">
-      <div id="badges" align="center">
+    <td>
+         <div id="badges" align="center">
          <h1>💻 Tech Stack:</h1>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -43,11 +38,10 @@
   
 </div>
 
-
     </td>
   </tr>
  </table> 
-
+ 
 
 
      
