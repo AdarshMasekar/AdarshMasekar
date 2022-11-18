@@ -15,7 +15,7 @@
       
 
 <h1>😂 Random Dev Meme:</h1>
- <img src="https://random-memer.herokuapp.com/" width="150px"/>
+ <img src="https://random-memer.herokuapp.com/" width="250px"/>
     </td>
   </tr>
  </table> 
