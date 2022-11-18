@@ -1,4 +1,4 @@
-<table align="left" width="350px">
+<table align="left" display="flex">
   <tr>
     <td align="center">
       
@@ -9,7 +9,7 @@
   </tr>
  </table> 
  
- <table align="right" width="350px" display="flex">
+ <table align="right" display="flex">
   <tr>
     <td align="center">
       <div id="badges" align="center">
