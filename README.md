@@ -1,4 +1,4 @@
-<table align="left">
+<table align="left" width="350px">
   <tr>
     <td align="center">
       
@@ -9,13 +9,13 @@
   </tr>
  </table> 
  
- <table align="right" display="flex">
+ <table align="right" width="350px" display="flex">
   <tr>
     <td align="center">
       
 
 <h1>😂 Random Dev Meme:</h1>
- <img src="https://random-memer.herokuapp.com/" width="220px"/>
+ <img src="https://random-memer.herokuapp.com/" width="300px"/>
     </td>
   </tr>
  </table> 
