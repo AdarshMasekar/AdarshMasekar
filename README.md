@@ -1,11 +1,41 @@
-
-<p align="center"><img src="animation.gif" width="35%"></p>
-<div style=" font-size: medium; color: #447ff7" align=center>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Adarsh+Masekar+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Graduate+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+frontend+work+experience+%F0%9F%93%88;In+building+Webapplications+%E2%9A%99%EF%B8%8F" alt="Aditya Kumar" width="650" height="55">
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+![Profile views](https://gpvc.arturio.dev/adarshmasekar)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Adarsh+Masekar;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+```javascript
+const Adarsh = {
+  name: "Adarsh",
+  age: 21,
+  pronouns: "He/His",
+  college: "Government Engineering college Karwar",
+  interests: ["music", "movies", "chess", "travel"],
+  stack: "Front end web developer",
+  address: {
+    city: "Karwar",
+    country: "India",
+  },
+  code: ["javascript", "HTML", "CSS"],
+  frameworks: ["React", "Bootstrap", "Tailwindcss"],
+  tools: ["Git", "Github", "VSCode"],
+  languages: ["English", "Hindi", "Kannada",],
+};
+```
+### 📈 GitHub stats & Activity Graph :
+<table cellpadding="0">
+  <tr style="padding: 10">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=adarshmasekar&theme=dracula&include_all_commits=true"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmasekar&theme=dracula&layout=compact"/></td>
+  </tr>
+</table>
+
+[![adarshmasekar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adarshmasekar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>
