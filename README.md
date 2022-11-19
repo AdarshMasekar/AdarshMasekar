@@ -31,7 +31,7 @@ const Adarsh = {
   </tr>
 </table>
 
-[![adarshmasekar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adarshmasekar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![adarshmasekar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adarshmasekar&theme=react-dark)](https://github.com/adarshmasekar/github-readme-activity-graph)
 
 
 
