@@ -31,11 +31,4 @@ const Adarsh = {
   </tr>
 </table>
 
-[![adarshmasekar's github activity graph](https://activity-graph.herokuapp.com/graph?username=adarshmasekar&theme=react-dark)](https://github.com/adarshmasekar/github-readme-activity-graph)
-
-
-
-
-
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>
