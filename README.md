@@ -5,20 +5,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const Adarsh = {
-  name: "Adarsh",
+  name: "Adarsh Masekar",
   age: 21,
-  pronouns: "He/His",
   college: "Government Engineering college Karwar",
   interests: ["music", "movies", "chess", "travel"],
   stack: "Front end web developer",
   address: {
-    city: "Karwar",
     country: "India",
   },
   code: ["javascript", "HTML", "CSS"],
   frameworks: ["React", "Bootstrap", "Tailwindcss"],
   tools: ["Git", "Github", "VSCode"],
-  languages: ["English", "Hindi", "Kannada",],
+  languages: ["English", "Hindi", "Kannada","Marathi"],
 };
 ```
 ### 📈 GitHub stats & Activity Graph :
