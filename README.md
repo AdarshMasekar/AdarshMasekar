@@ -9,7 +9,7 @@ const Adarsh = {
   age: 21,
   college: "Government Engineering college Karwar",
   interests: ["music", "movies", "chess", "travel"],
-  stack: "Front end web developer",
+  stack: "Full stack web developer",
   address: {
     country: "India",
   },
