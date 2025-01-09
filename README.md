@@ -78,5 +78,5 @@
 ----------------------------------------------------------------------
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshmasekar&show_icons=true" alt="GitHub stats" style="margin-right: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=adarshmasekar" alt="GitHub streak stats">
+ <img src="https://streak-stats.demolab.com/?user=adarshmasekar" alt="GitHub streak stats">
 </div>
