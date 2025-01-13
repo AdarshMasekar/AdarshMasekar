@@ -18,12 +18,12 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Java, Nodejs, MongoDB**
+- 🔭 I’m currently working on **MongoDB, Expresss, Reactjs, Nodejs**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 
-- 💬 Ask me about **Sql, react, nodejs, mongoDB**
+- 💬 Ask me about **Sql, react, nodejs, mongoDB, express**
 
 - 📫 Feel free to reach me out **adarshmasekar@gmail.com**
 
