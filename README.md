@@ -34,19 +34,6 @@ I love building tools that solve real problems:
 - Clean and scalable UI components  
 - Reusable backend architecture templates
 
-I've built **100+ public projects** and many more private ones while experimenting and learning.
-
----
-
-### 📌 Featured Projects
-
-- **Full-Stack Productivity Dashboard (MERN)**  
-- **AI Task Generator (Node + GPT APIs)**  
-- **Companion App (React + MongoDB)**  
-- **ATS Score Checker**  
-- **Portfolio Website (React + Wasp + Tailwind)**  
-- **Real-time utilities & developer tools**
-
 ---
 
 ### 🧰 Tech Stack
@@ -70,11 +57,10 @@ Vercel • Render • Railway • Netlify
 
 ### ✨ Fun Facts About Me
 
-- I don’t like coffee or tea  
-- Demon Slayer is my favorite anime  
-- **Hobbies:** anime, gym, and building things  
-- I have two cats  
-- Most of my projects start as random ideas at night
+- *Avatar: The Last Airbender* is my all-time favorite anime  
+- **Hobbies:** anime, chess, and building things  
+- I’m interested in custom ROMs, flashing, and experimenting with Android systems  
+- Most of my projects begin as random ideas that turn into full builds
 
 ---
 
