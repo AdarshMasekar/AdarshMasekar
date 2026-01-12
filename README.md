@@ -1,70 +1,95 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+## Hey there 👋
 
-I’m [**Adarsh**](https://adarshmasekar.vercel.app/) a Full-Stack Developer from India — passionate about building fast, modern, and scalable web applications.
+I’m **Adarsh** — a JavaScript-focused developer from India, currently on a **6–9 month learning journey** to build strong foundations in **DSA, Full-Stack Web Development, and DevOps**.
 
-I specialize in the **MERN stack (MongoDB, Express, React, Node.js)** and love creating products end-to-end: from designing clean UI to architecting backend systems and deploying production-ready applications.
+I’m learning **Web Development + DevOps** through structured cohorts by **Harkirat Singh**  
+🔗 https://harkirat.classx.co.in/
 
-If an idea pops into my head, I build it, refine it, and ship it.
-
----
-
-### 🚀 Full-Stack Expertise
-
-I work across the entire development lifecycle:
-
-- **Frontend:** React, TypeScript, TailwindCSS, Framer Motion  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, Mongoose  
-- **Authentication:** JWT, OAuth, Sessions  
-- **Deployment:** Vercel, Render, Railway, Netlify  
-- **Tools:** Git, Linux, Figma, Postman  
-- **Bonus Skills:** AI Integrations, automation, product design thinking
+My goal is simple: **understand systems deeply**, write clean code, and build software that works reliably in production.
 
 ---
 
-### 🧩 What I Build
+## 🧠 What I’m Learning (2025)
 
-I love building tools that solve real problems:
+### 📌 Data Structures & Algorithms
+- Arrays, Strings, Hash Maps
+- Sliding Window, Two Pointers, Prefix Sum
+- Recursion & Backtracking
+- Stack, Queue, Linked List
+- Trees, Graphs
+- Greedy & Dynamic Programming
 
-- Full-stack web apps using **MERN**  
-- Personal productivity dashboards  
-- AI-powered utilities (task generators, automation tools)  
-- Companion apps for storing and organizing user data  
-- Portfolio systems & ATS score checker  
-- Clean and scalable UI components  
-- Reusable backend architecture templates
+Platforms I practice on:
+- LeetCode
+- Codeforces
+- AtCoder
 
 ---
 
-### 🧰 Tech Stack
+### 🌐 Full-Stack Web Development
+- HTML, CSS, JavaScript (deep fundamentals)
+- Async JS, event loop, architecture
+- Node.js, Express, REST APIs
+- Databases: MongoDB, PostgreSQL
+- TypeScript
+- React & Next.js
+- WebSockets & real-time systems
+
+---
+
+### ⚙️ DevOps & Systems
+- Bash & Linux fundamentals
+- Processes, reverse proxies
+- Containers & Docker
+- Kubernetes (core concepts)
+- CI/CD pipelines
+- Monitoring & observability
+- CDNs & object storage
+- Infrastructure & sandboxing basics
+
+---
+
+## 🛠️ Tech Stack (Current)
+
+**Languages:**  
+JavaScript • TypeScript • SQL  
 
 **Frontend:**  
-React • TypeScript • JavaScript • TailwindCSS • Framer Motion  
+React • Next.js • TailwindCSS  
 
 **Backend:**  
-Node.js • Express.js • REST APIs • Authentication • JWT  
+Node.js • Express • REST APIs  
 
-**Database:**  
-MongoDB • Mongoose  
+**Databases:**  
+MongoDB • PostgreSQL  
 
-**Other Tools:**  
-Git • GitHub • Linux • VS Code • Figma • Postman  
-
-**Deployment:**  
-Vercel • Render • Railway • Netlify  
+**DevOps / Tools:**  
+Git • GitHub • Linux • Docker • Vercel  
 
 ---
 
-### ✨ Fun Facts About Me
+## 🚀 Projects (Work in Progress)
 
-- *Avatar: The Last Airbender* is my all-time favorite anime  
-- **Hobbies:** anime, chess, and building things  
-- I’m interested in custom ROMs, flashing, and experimenting with Android systems  
-- Most of my projects begin as random ideas that turn into full builds
+- 📋 Full-stack Todo application  
+- 📊 Trading / dashboard app  
+- ⚡ Real-time applications using WebSockets  
+- 🧠 DSA solutions with revision-friendly notes  
+
+(All projects focus on **clarity, structure, and learning**, not just features.)
 
 ---
 
-### 📫 Connect with me  
-**Portfolio:** https://adarshmasekar.vercel.app  
-**GitHub:** *You’re already here!* 😄
+## 🧩 Learning Philosophy
 
+- One concept → deep understanding  
+- One problem → clear pattern + explanation  
+- GitHub → used as a **revision and learning system**, not just storage  
+
+Consistency > speed.  
+Clarity > cleverness.
+
+---
+
+## 📫 Connect with Me
+
+- **Portfolio:** https://adarshmasekar.vercel.app  (Vibe Coded for now - Need to Build from scratch)
