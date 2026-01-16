@@ -9,7 +9,7 @@ My goal is simple: **understand systems deeply**, write clean code, and build so
 
 ---
 
-## 🧠 What I’m Learning (2025)
+## 🧠 What I’m Learning (2026)
 
 ### 📌 Data Structures & Algorithms
 - Arrays, Strings, Hash Maps
