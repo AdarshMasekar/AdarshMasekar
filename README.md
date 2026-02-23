@@ -1,55 +1,47 @@
-## Hey there 👋
+# Hi, I’m Adarsh 👋
 
-I’m **Adarsh** — a JavaScript-focused developer from India, currently on a **6–9 month learning journey** to build strong foundations in **DSA, Full-Stack Web Development, and DevOps**.
+I’m a JavaScript-focused developer from India, currently on a 6–9 month journey to deepen my foundations in **DSA**, **Full-Stack Web Development**, and **DevOps**.[page:1]
 
-I’m learning **Web Development + DevOps** through structured cohorts by **Harkirat Singh**  
-🔗 https://harkirat.classx.co.in/
-
-My goal is simple: **understand systems deeply**, write clean code, and build software that works reliably in production.
+I care about understanding systems deeply, writing clean code, and building software that works reliably in production.
 
 ---
 
-## 🧠 What I’m Learning (2026)
+## 🧠 Currently Learning (2026)
 
-### 📌 Data Structures & Algorithms
-- Arrays, Strings, Hash Maps
-- Sliding Window, Two Pointers, Prefix Sum
-- Recursion & Backtracking
-- Stack, Queue, Linked List
-- Trees, Graphs
-- Greedy & Dynamic Programming
+### Data Structures & Algorithms
+- Arrays, Strings, Hash Maps  
+- Sliding Window, Two Pointers, Prefix Sum  
+- Recursion & Backtracking  
+- Stack, Queue, Linked List  
+- Trees, Graphs  
+- Greedy & Dynamic Programming  
 
-Platforms I practice on:
-- LeetCode
-- Codeforces
-- AtCoder
+Practicing on: **LeetCode**, **Codeforces**, **AtCoder**
 
----
+### Full-Stack Web Development
+- HTML, CSS, JavaScript (deep fundamentals)  
+- Async JS, event loop, architecture  
+- Node.js, Express, REST APIs  
+- MongoDB, PostgreSQL  
+- TypeScript  
+- React, Next.js  
+- WebSockets & real-time systems  
 
-### 🌐 Full-Stack Web Development
-- HTML, CSS, JavaScript (deep fundamentals)
-- Async JS, event loop, architecture
-- Node.js, Express, REST APIs
-- Databases: MongoDB, PostgreSQL
-- TypeScript
-- React & Next.js
-- WebSockets & real-time systems
+### DevOps & Systems
+- Bash & Linux basics  
+- Processes, reverse proxies  
+- Docker & containers  
+- Kubernetes (core concepts)  
+- CI/CD pipelines  
+- Monitoring & observability  
+- CDNs, object storage  
+- Infrastructure & sandboxing basics  
 
----
-
-### ⚙️ DevOps & Systems
-- Bash & Linux fundamentals
-- Processes, reverse proxies
-- Containers & Docker
-- Kubernetes (core concepts)
-- CI/CD pipelines
-- Monitoring & observability
-- CDNs & object storage
-- Infrastructure & sandboxing basics
+Learning via structured cohorts by **Harkirat Singh**.
 
 ---
 
-## 🛠️ Tech Stack (Current)
+## 🛠️ Tech Stack
 
 **Languages:**  
 JavaScript • TypeScript • SQL  
@@ -68,28 +60,31 @@ Git • GitHub • Linux • Docker • Vercel
 
 ---
 
-## 🚀 Projects (Work in Progress)
+## 🚀 Projects (In Progress)
 
 - 📋 Full-stack Todo application  
-- 📊 Trading / dashboard app  
-- ⚡ Real-time applications using WebSockets  
+- 📊 Trading / analytics dashboard  
+- ⚡ Real-time apps using WebSockets  
 - 🧠 DSA solutions with revision-friendly notes  
 
-(All projects focus on **clarity, structure, and learning**, not just features.)
+All projects focus on clarity, structure, and learning — not just shipping features.
 
 ---
 
-## 🧩 Learning Philosophy
+## 🧩 How I Learn
 
 - One concept → deep understanding  
-- One problem → clear pattern + explanation  
-- GitHub → used as a **revision and learning system**, not just storage  
+- One problem → extract the pattern and document it  
+- GitHub → my revision and learning system, not just storage  
 
-Consistency > speed.  
-Clarity > cleverness.
+Consistency > speed  
+Clarity > cleverness
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-- **Portfolio:** https://adarshmasekar.vercel.app  (Vibe Coded for now - Need to Build from scratch)
+- Portfolio: [adarshmasekar.vercel.app](https://adarshmasekar.vercel.app)  
+- GitHub: [@adarshmasekar](https://github.com/adarshmasekar)  
+- LinkedIn: [Adarsh Masekar](https://www.linkedin.com/in/adarsh-masekar/)  
+- LeetCode: [adarshmasekar](https://leetcode.com/u/adarshmasekar/)
