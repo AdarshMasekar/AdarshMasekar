@@ -1,6 +1,6 @@
 # Hi, I’m Adarsh 👋
 
-I’m a JavaScript-focused developer from India, currently on a 6–9 month journey to deepen my foundations in **DSA**, **Full-Stack Web Development**, and **DevOps**.
+I’m a JavaScript-focused developer from India, currently on a 6–9 month journey to deepen my foundations in **DSA**, **Full-Stack Web Development**, and **DevOps**. 
 
 I care about understanding systems deeply, writing clean code, and building software that works reliably in production.
 
